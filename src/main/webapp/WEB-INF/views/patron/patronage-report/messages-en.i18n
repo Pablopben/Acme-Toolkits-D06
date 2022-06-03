@@ -1,0 +1,24 @@
+patron.patronage-report.list.label.patronage.identify.code = Code
+patron.patronage-report.list.label.sequence-number = Sequence number
+patron.patronage-report.list.label.creation-time = Creation time
+patron.patronage-report.list.label.info = Information
+
+patron.patronage-report.form.label.patronage = Patronage
+patron.patronage-report.form.label.sequence-number = Sequence number
+patron.patronage-report.form.label.creation-time = Creation time
+patron.patronage-report.form.label.memorandum = Memorandum
+patron.patronage-report.form.label.info = Information
+patron.patronage-report.list.button.create = Create
+
+patron.patronage.form.label.patronage.identify.status = Status
+patron.patronage.form.label.patronage.identify.legal-stuff = Legal stuff
+patron.patronage.form.label.patronage.identify.budget = Budget
+patron.patronage.form.label.exchange = Currency exchange
+patron.patronage.form.label.patronage.identify.creation-date = Creation date
+patron.patronage.form.label.patronage.identify.start-date = Start date
+patron.patronage.form.label.patronage.identify.end-date = End date
+patron.patronage.form.label.patronage.identify.info = Information
+patron.patronage.form.label.patronage.identify.code = Patronage code
+patron.patronage-report.form.label.confirmation = Confirmation
+patron.patronage-report.title.report = Report
+patron.patronage-report.form.button.create = Create

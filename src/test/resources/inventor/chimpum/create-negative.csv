@@ -1,0 +1,17 @@
+code,title,description,startDate,endDate,budget,info
+,,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+AAA-2206:03,,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+AAA-22:01,This is a Chimpum example for a negative create test case,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+AAA2,This is a Chimpum example for a negative create test case,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+AAA-03:2206,,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+ZZZ-2005:01,This is a Chimpum example for a negative create test casepum example for a negative create test cases,This is a Chimpum example for a positive create test case,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+BBB-2001:01,This is a Chimpum example for a negative create test case,,2022/11/01 01:01,2022/12/01 01:00,EUR 301.00,https://ChimpumassInfo.com
+CCC-2002:29,This is a Chimpum example for a negative create test case,This is a Chimpum example for a negative create test caseThis is a Chimpum example for a negative create test caseThis is a Chimpum example for a negative create test casea negative create test caseThis is a Chimpum example for a negative create test cases,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+DDD-2002:29,This is a Chimpum example for a negative create test case,This is a Chimpum example for a negative create test case,2022/06/16 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+AAB-2206:03,This is a Chimpum example for a negative create test case,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/11/02 01:01,EUR 301.00,https://ChimpumassInfo.com
+ABB-2206:03,This is a Chimpum example for a negative create test case,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/11/01 01:00,EUR 301.00,https://ChimpumassInfo.com
+ZZZ-20:05,This is a Chimpum example for a negative update test case,This is a Chimpum example for a negative update test case,2022/11/01 01:01,2022/12/01 01:01,USD 0,https://ChimpumaInfo.com
+ABC-2206:03,This is a Chimpum example for a negative create test case,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/12/01 01:01,EUR -301.00,https://ChimpumassInfo.com
+ABC-2206:03,This is a Chimpum example for a negative create test case,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/12/01 01:01,OLE -301.00,https://ChimpumassInfo.com
+ABC-2206:03,This is a Chimpum example for a negative create test case,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/12/01 01:01,ULI 301.00,https://ChimpumassInfo.com
+ABD-2206:02,This is a Chimpum example for a negative create test case,This is a Chimpum example for a negative create test case,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,notagoodestruture

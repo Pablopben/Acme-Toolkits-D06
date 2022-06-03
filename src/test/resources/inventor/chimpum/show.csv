@@ -1,0 +1,6 @@
+key,code,creationDate,title,description,startDate,endDate,budget,info,itemName
+0,LLL-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2020/06/01 12:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com,Διερμηνέας
+1,MMM-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2020/06/01 12:01,2020/06/08 12:02,EUR 300.00,https://ChimpumInfo.com,Hammer-80
+2,AAA-2005:01,2020/05/01 01:01,This is a Chimpum example,This is a Chimpum example,2022/07/01 00:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com,Hammer-65
+3,BBB-2001:01,2020/01/01 00:00,This is a Chimpum example,This is a Chimpum example,2022/07/01 00:02,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com,Hammer-68
+4,CCC-2002:29,2020/02/29 00:01,This is a Chimpum example,This is a Chimpum example,2022/07/01 00:03,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com,Hammer-69

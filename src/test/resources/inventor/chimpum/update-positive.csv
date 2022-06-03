@@ -1,0 +1,12 @@
+code,title,description,startDate,endDate,budget,info
+AAA-2001:01,This is a Chimpum example for a positive create test case,This is a Chimpum example for a positive create test case,2022/11/01 01:01,2022/12/01 01:01,GBP 301.00,https://ChimpumassInfo.com
+ZZZ-2001:01,This is a Chimpum example for a positive create test casepum example for a positive create test case,This is a Chimpum example for a positive create test,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+CCC-2001:01,T,This is a Chimpum example for a positive create test case,2024/02/29 01:01,2024/03/29 01:01,USD 301.00,https://ChimpumassInfo.com
+EEE-2001:01,This is a Chimpum example for a positive create test case,T,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+AAA-2001:01,This is a Chimpum example for a positive create test case,This is a Chimpum example for a positive create test caseThis is a Chimpum example for a positive create test caseThis is a Chimpum example for a positive create test casea positive create test caseThis is a Chimpum example for a positive create test case,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+GGG-2001:01,This is a Chimpum example for a positive create test case,This is a Chimpum example for a positive create test,2022/11/01 01:01,2022/12/01 01:01,EUR 301.00,https://ChimpumassInfo.com
+ZZZ-2001:01,This is an example,This is a Chimpum example for,2022/06/01 01:02,2022/11/08 01:01,EUR 301.00,https://ChimpumassInfo.com
+HHH-2001:01,This is an example,This is a Chimpum example for,2022/11/01 01:01,2022/11/08 01:02,USD 301.00,https://ChimpumassInfo.com
+III-2001:01,This is an example,This is a Chimpum example for,2022/11/01 23:59,2022/11/09 00:00,GBP 0.01,https://ChimpumassInfo.com
+JJJ-2001:01,This is an example,This is a Chimpum example for,2022/11/01 01:01,2022/11/08 01:02,EUR 301.00,http://ChimpumassInfo.com
+KKK-2001:01,This is an example,This is a Chimpum example for a positivecreate test case,2022/11/01 23:59,2022/11/09 00:00,USD 301.00,

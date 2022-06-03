@@ -1,0 +1,80 @@
+# menu-es.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+# master.menu #################################################################
+
+master.menu.home = Inicio
+master.menu.sign-up = Registrarse
+master.menu.sign-in = Entrar
+master.menu.sign-out = Salir
+
+# master.menu.any #######################################################
+
+master.menu.any = Cualquiera
+master.menu.any.user-account.list = Lista de cuentas de usuario
+master.menu.any.chirp.list = Lista de chirps
+master.menu.any.toolkit.list = Lista de toolkits
+master.menu.any.item.list = Lista de artículos
+
+# master.menu.anonymous #######################################################
+
+master.menu.anonymous = Anónimo
+master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.andres-duran.favourite-link = 49137589K: Durán Terrero, Andrés
+master.menu.anonymous.javier-vazquez.favourite-link = 21152327D: Vázquez monge, Francisco Javier
+master.menu.anonymous.pablo-delfin-lopez.favourite-link = 49193407H: López Benítez, Pablo Delfín
+master.menu.anonymous.alejandro-carrasco.favourite-link = 77820579X: Carrasco Núñez, Alejandro
+master.menu.anonymous.pablo-robledo.favourite-link= 77850051L: Robledo Campa, Pablo Jose
+master.menu.anonymous.pablo-nunez.favourite-link = 44062067R: Núñez Moreno, Pablo
+
+# master.menu.administrator ###################################################
+
+master.menu.administrator = Administrador
+master.menu.administrator.dashboard = Panel de indicadores
+master.menu.administrator.announcement = Crear anuncio
+master.menu.administrator.user-accounts = Cuentas de usuario
+master.menu.administrator.system-configuration.show = Ver la configuración del sistema
+master.menu.administrator.populate-initial = Poblar BD (inicial)
+master.menu.administrator.populate-sample = Poblar BD (ejemplos)
+master.menu.administrator.shut-down = Parar el sistema
+
+# master.menu.inventor ########################################################
+
+master.menu.inventor = Inventor
+master.menu.inventor.patronage.list = Ver mis patronazgos
+master.menu.inventor.patronage.list-proposed = Ver mis patronazgos propuestos
+master.menu.inventor.patronage-report.list = Ver mis reportes de patronazgos
+master.menu.inventor.toolkit.list = Ver mis toolkits
+master.menu.inventor.item.list = Ver mis artículos
+master.menu.inventor.chimpum.list = Ver los chimpums de mis artículos
+
+# master.menu.patron ########################################################
+
+master.menu.patron = Patrón
+master.menu.patron.dashboard = Panel
+master.menu.patron.patronage.list = Ver mis patronazgos
+master.menu.patron.patronage-report.list = Ver mis reportes de patronazgos
+master.menu.patron.inventor.list = Proponer un patronazgo
+
+# master.menu.authenticated ########################################################
+
+master.menu.authenticated = Autenticado
+master.menu.user-account.system-configuration.show = Ver la configuración del sistema
+
+# master.menu.user-account ####################################################
+
+master.menu.user-account = Cuenta
+master.menu.user-account.general-data = Datos generales
+master.menu.user-account.become-patron = Conviértete en patrón
+master.menu.user-account.patron = Datos de patrón
+master.menu.user-account.become-inventor = Conviértete en inventor
+master.menu.user-account.inventor = Datos de inventor
+master.menu.user-account.list = Ver cuentas de usuario
+master.menu.user-account.announcement.list-recent = Ver anuncios recientes

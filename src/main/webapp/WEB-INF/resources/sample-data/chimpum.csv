@@ -1,0 +1,22 @@
+key,code,creationDate,title,description,startDate,endDate,budget,info
+chimpum-01,AAA-2005:01,2020/05/01 01:01,This is a Chimpum example,This is a Chimpum example,2022/07/01 00:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-02,ZZZ-2005:01,2020/05/01 01:01,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-03,BBB-2001:01,2020/01/01 00:00,This is a Chimpum example,This is a Chimpum example,2022/07/01 00:02,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-04,CCC-2002:29,2020/02/29 00:01,This is a Chimpum example,This is a Chimpum example,2022/07/01 00:03,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-05,DDD-2002:29,2020/02/29 00:00,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-06,EEE-2002:29,2020/02/29 23:59,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-07,FFF-2012:31,2020/12/31 23:59,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-08,GGG-2005:01,2020/05/01 01:01,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-09,HHH-2005:01,2020/05/01 12:00,T,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-10,III-2005:01,2020/05/01 12:00,This is a Chimpum example with 100 exact characters This is a Chimpum example with 100 exact charact,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-11,JJJ-2005:01,2020/05/01 12:00,This is a Chimpum example,T,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-12,KKK-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example with 255 exact characters This is a Chimpum example with 255 exact characters This is a Chimpum example with 255 exact characters This is a Chimpum example with 255 exact characters This is a Chimpum example with 255 exact charac,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-13,LLL-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2020/06/01 12:01,2022/08/01 01:01,EUR 300.00,https://ChimpumInfo.com
+chimpum-14,MMM-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2020/06/01 12:01,2020/06/08 12:02,EUR 300.00,https://ChimpumInfo.com
+chimpum-15,NNN-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,USD 0.01,https://ChimpumInfo.com
+chimpum-16,OOO-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,GBP 9999.99,https://ChimpumInfo.com
+chimpum-17,PPP-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,
+chimpum-18,QQQ-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,http://www.acme.com/a?b
+chimpum-19,RRR-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,https://www.acme.com/a/b
+chimpum-20,SSS-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,ftp://user:pass@acme.org
+chimpum-21,TTT-2005:01,2020/05/01 12:00,This is a Chimpum example,This is a Chimpum example,2022/07/01 01:01,2022/08/01 01:01,EUR 300.00,http://a.b/c?d&e

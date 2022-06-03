@@ -1,0 +1,43 @@
+patron.patronage.list.label.status = Status
+patron.patronage.list.label.code = Code
+patron.patronage.list.label.budget = Budget
+patron.patronage.list.label.exchange= Currency Exchange
+patron.patronage.list.label.start-date = Start date
+patron.patronage.list.label.end-date = End date
+
+patron.patronage.form.info = Patronage's details
+
+patron.patronage.form.label.status = Status
+patron.patronage.form.label.proposed = PROPOSED
+patron.patronage.form.label.accepted = ACCEPTED
+patron.patronage.form.label.denied = DENIED
+patron.patronage.form.label.code = Code
+patron.patronage.form.label.legal-stuff = Legal
+patron.patronage.form.label.budget = Budget
+patron.patronage.form.label.exchange= Currency Exchange
+patron.patronage.form.label.creation-date = Creation date
+patron.patronage.form.label.start-date = Start date
+patron.patronage.form.label.end-date = End date
+patron.patronage.form.label.info = Information
+
+patron.patronage.form.inventor-data = Inventor's details
+
+patron.patronage.form.label.inventor.identity.name = Name
+patron.patronage.form.label.inventor.identity.surname = Surname
+patron.patronage.form.label.inventor.identity.email = Email
+patron.patronage.form.label.inventor.company = Company
+patron.patronage.form.label.inventor.statement = Statement
+patron.patronage.form.label.inventor.info = Information
+
+patron.patronage.form.reports= Patronage's reports
+
+patron.patronage.form.button.create = Create
+patron.patronage.form.button.update = Update
+patron.patronage.form.button.delete = Delete
+patron.patronage.form.button.publish = Publish
+
+patron.patronage.form.error.duplicated = This reference is taken
+patron.patronage.form.error.negative-budget = The salary must be positive
+patron.patronage.form.error.start-date-too-early = The patronage can't start in less than a month
+patron.patronage.form.error.end-date-too-early = The patronage must last at least a month
+patron.patronage.form.error.not-accepted-currency = This currency is not accepted in the system
